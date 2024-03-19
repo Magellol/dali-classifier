@@ -1,0 +1,6 @@
+dist/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+images/
+.venv/

@@ -1,0 +1,3 @@
+fastai
+ipython
+jupyter

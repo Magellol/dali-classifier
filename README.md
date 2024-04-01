@@ -1,7 +1,7 @@
 # dali-classifier
 
 Jupyter notebook to train a computer vision model to recognize our cat, Dali.
-I wrote about it in this [blog post](https://tlbvr.com/blog/deep-learning-cat-classifier/).
+I wrote about it in this [blog post](https://tlbvr.com/blog/deep-learning-cat-classifier/). It is currently hosted on [Hugging Face](https://huggingface.co/spaces/magellol/dali).
 
 This project uses [`nix`](https://nixos.org/) to set up the python environment.
 
